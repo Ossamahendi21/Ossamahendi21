@@ -27,7 +27,8 @@
   <a href="https://www.facebook.com/people/Oussama-Hendi/pfbid0jTarD4RgFdfnQFW2qnrdA8FXeorGi1bMTxv3kEgiumbUVex7RszMvwcDLsuYUhB3l/">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
-<h3 align="left">other:</h3>  
+
+  ## other
   
   <a href="https://github.com/Ossamahendi21/">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">  
@@ -104,6 +105,7 @@
 </details>
 
 ## Recent GitHub Activity ✅
+    
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Ossamahendi21/alx-pre_course/pull/1) in [alx-pre_course](https://github.com/Ossamahendi21/alx-pre_course)
 2. 💪 Opened PR [#2](https://github.com/Ossamahendi21/zero_day/pull/2) in [zero_day](https://github.com/Ossamahendi21/zero_day)         
@@ -112,6 +114,7 @@
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
+    
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ossamahendi21&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
