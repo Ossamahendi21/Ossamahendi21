@@ -35,27 +35,84 @@
   <a href="https://open.spotify.com/user/5ok5f7useewlc0efun3ajwnim/">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
-  
-  
-  
-  
-  
-  
 
 
+## My favorite tools and technologies ⚙️ 
+ 
+ > Tools and technologies that I have worked with and am interested in
+  <table>
+  <tr>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+    <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
+       <br>c
+    </td>
+ </tr>
+</table>  
+    
+## Github stats 📊 
 
+<details> 
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Ossamahendi21&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ossamahendi21&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="150px"/></a>
+  <br/>
+</details>
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+ 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ossamahendi21&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+</details>
 
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Ossamahendi21&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
+</details>
 
+## Recent GitHub Activity ✅
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#89](https://github.com/file-validator/file-validator/pull/89) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+2. 💪 Opened PR [#89](https://github.com/file-validator/file-validator/pull/89) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+3. 🎉 Merged PR [#88](https://github.com/file-validator/file-validator/pull/88) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+4. 💪 Opened PR [#88](https://github.com/file-validator/file-validator/pull/88) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+5. 🎉 Merged PR [#87](https://github.com/file-validator/file-validator/pull/87) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+<!--END_SECTION:activity-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ossamahendi21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ossamahendi21&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ossamahendi21&theme=black-ice)](https://git.io/streak-stats)
-
-  
-  
-  
-  
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
