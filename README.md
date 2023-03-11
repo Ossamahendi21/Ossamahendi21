@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
 
-  ## other
+  ## other 🌍
   
   <a href="https://github.com/Ossamahendi21/">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">  
