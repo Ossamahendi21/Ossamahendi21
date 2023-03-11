@@ -6,7 +6,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ossamahendi21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ossamahendi21" /> </p>
 
-## Connect with me 📧
+## Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="35" height="35" />
   
 <a href="https://www.instagram.com/oussama.hendi/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
 
-  ## other 🌍
+  ## other <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" />
   
   <a href="https://github.com/Ossamahendi21/">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">  
@@ -38,7 +38,7 @@
   </a>
 
 
-## My favorite tools and technologies ⚙️ 
+## My favorite tools and technologies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" />
  
  > Tools and technologies that I have worked with and am interested in
   <table>
@@ -80,7 +80,7 @@
  </tr>
 </table>  
     
-## Github stats 📊 
+## Github stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> 
 
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
@@ -98,7 +98,7 @@
 </details>
 
 <details>
-  <summary>Profile Views 👁️</summary>
+  <summary>Profile Views 👁️ </summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Ossamahendi21&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
