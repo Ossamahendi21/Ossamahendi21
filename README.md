@@ -6,7 +6,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ossamahendi21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ossamahendi21" /> </p>
 
-<h2 align="left">Connect with me:</h2>
+## Connect with me 📧
   
 <a href="https://www.instagram.com/oussama.hendi/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -113,6 +113,6 @@
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ossamahendi21&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
