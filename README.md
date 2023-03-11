@@ -105,11 +105,9 @@
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/file-validator/file-validator/pull/89) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-2. 💪 Opened PR [#89](https://github.com/file-validator/file-validator/pull/89) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-3. 🎉 Merged PR [#88](https://github.com/file-validator/file-validator/pull/88) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-4. 💪 Opened PR [#88](https://github.com/file-validator/file-validator/pull/88) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-5. 🎉 Merged PR [#87](https://github.com/file-validator/file-validator/pull/87) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+1. 🎉 Merged PR [#1](https://github.com/Ossamahendi21/alx-pre_course/pull/1) in [alx-pre_course](https://github.com/Ossamahendi21/alx-pre_course)
+2. 💪 Opened PR [#2](https://github.com/Ossamahendi21/alx-zero_day/pull/2) in [alx-zero_day](https://github.com/Ossamahendi21/alx-zero_day)
+3. 🎉 Merged PR [#3](https://github.com/Ossamahendi21/alx-system_engineering-devops/pull/3) in [alx-system_engineering-devops](https://github.com/Ossamahendi21/alx-system_engineering-devops)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
