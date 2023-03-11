@@ -106,8 +106,9 @@
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Ossamahendi21/alx-pre_course/pull/1) in [alx-pre_course](https://github.com/Ossamahendi21/alx-pre_course)
-2. 💪 Opened PR [#2](https://github.com/Ossamahendi21/alx-zero_day/pull/2) in [alx-zero_day](https://github.com/Ossamahendi21/alx-zero_day)
-3. 🎉 Merged PR [#3](https://github.com/Ossamahendi21/alx-system_engineering-devops/pull/3) in [alx-system_engineering-devops](https://github.com/Ossamahendi21/alx-system_engineering-devops)
+2. 💪 Opened PR [#2](https://github.com/Ossamahendi21/zero_day/pull/2) in [zero_day](https://github.com/Ossamahendi21/zero_day)         
+3. 🎉 Merged PR [#3](https://github.com/Ossamahendi21/alx-zero_day/pull/3) in [alx-zero_day](https://github.com/Ossamahendi21/alx-zero_day)
+4. 💪 Opened PR [#4](https://github.com/Ossamahendi21/alx-system_engineering-devops/pull/4) in [alx-system_engineering-devops](https://github.com/Ossamahendi21/alx-system_engineering-devops)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
