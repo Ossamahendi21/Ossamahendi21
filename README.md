@@ -1,8 +1,8 @@
 <h1 align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama+Hendi" alt="Typing SVG" /></a>
-  
- <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+%2C+i'm+oussama+hendi" alt="Typing SVG" /></a>
+ 
+  <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ossamahendi21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ossamahendi21" /> </p>
 
