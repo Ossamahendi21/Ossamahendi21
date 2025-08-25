@@ -2,7 +2,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+%2C+i'm+oussama+hendi" alt="Typing SVG" /></a>
  
-  <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
+  <h3 align="center">Software Engineer</h3>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ossamahendi21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ossamahendi21" /> </p>
 
@@ -90,12 +90,7 @@
   <br/>
 </details>
 
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ossamahendi21&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
-</details>
+
 
 <details>
   <summary>Profile Views 👁️ </summary>
@@ -112,9 +107,5 @@
 3. 🎉 Merged PR [#3](https://github.com/Ossamahendi21/alx-zero_day/pull/3) in [alx-zero_day](https://github.com/Ossamahendi21/alx-zero_day)
 4. 💪 Opened PR [#4](https://github.com/Ossamahendi21/alx-system_engineering-devops/pull/4) in [alx-system_engineering-devops](https://github.com/Ossamahendi21/alx-system_engineering-devops)
 <!--END_SECTION:activity-->
-
-## GitHub Profile Trophy 🏆
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ossamahendi21&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
