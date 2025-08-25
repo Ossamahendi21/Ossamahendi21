@@ -73,6 +73,14 @@
     <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
        <br>C
     </td>
+    <td align="center"  width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="c" />
+       <br>react
+    </td>
+    <td align="center"  width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="c" />
+       <br>tailwind
+    </td>
  </tr>
 </table>  
     
