@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">  
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://app.slack.com/client/T04QEQZ329H/D04QTVCPYTB/rimeto_profile/U04Q8NEV3JA/">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/people/Oussama-Hendi/pfbid0jTarD4RgFdfnQFW2qnrdA8FXeorGi1bMTxv3kEgiumbUVex7RszMvwcDLsuYUhB3l/">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
