@@ -148,7 +148,7 @@ This profile brings together my public projects, programming practice, and exper
 <div align="center">
   <a href="https://www.instagram.com/oussama.hendi/"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://discord.com/users/545738140162195471/"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://twitter.com/OssamaHindi/"><img src="https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/Oussama_hendi"><img src="https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.facebook.com/people/Oussama-Hendi/pfbid0jTarD4RgFdfnQFW2qnrdA8FXeorGi1bMTxv3kEgiumbUVex7RszMvwcDLsuYUhB3l/"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://open.spotify.com/user/5ok5f7useewlc0efun3ajwnim/"><img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
@@ -162,3 +162,4 @@ This profile brings together my public projects, programming practice, and exper
 <sub>Thanks for stopping by.</sub>
 
 </div>
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
