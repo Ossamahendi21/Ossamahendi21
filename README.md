@@ -115,7 +115,6 @@ This profile brings together my public projects, programming practice, and exper
 <a href="https://github.com/Ossamahendi21/alx-zero_day"><img src="https://img.shields.io/badge/alx--zero__day-View-161B22?style=flat-square&logo=github" alt="ALX zero day"></a>
 <a href="https://github.com/Ossamahendi21/zero_day"><img src="https://img.shields.io/badge/zero__day-View-161B22?style=flat-square&logo=github" alt="zero day"></a>
 <a href="https://github.com/Ossamahendi21/fooocus_colab"><img src="https://img.shields.io/badge/fooocus__colab-View-161B22?style=flat-square&logo=github" alt="fooocus colab"></a>
-<a href="https://github.com/Ossamahendi21/Ossamahendi212"><img src="https://img.shields.io/badge/Ossamahendi212-View-161B22?style=flat-square&logo=github" alt="Ossamahendi212"></a>
 
 </div>
 
