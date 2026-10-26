@@ -1,128 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1780" viewBox="0 0 1000 1780" role="img" aria-labelledby="title desc">
-<title id="title">GitAscii profile — @Ossamahendi21 (light theme)</title>
-<desc id="desc">The GitAscii profile content: software engineer, Morocco, profile activity, languages, technologies, biography, featured repositories, Pikachu card and social links.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Oussama Hendi — animated developer profile</title>
+<desc id="desc">Custom animated bright terminal-inspired banner for the public GitHub profile.</desc>
 <defs>
-  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#d0d7de" stroke-opacity=".5" stroke-width="1"/></pattern>
-  <pattern id="ascii" width="48" height="22" patternUnits="userSpaceOnUse">
-    <text x="1" y="10" font-family="monospace" font-size="8" fill="#166534" opacity=".48">jxygjx#*</text>
-    <text x="1" y="20" font-family="monospace" font-size="8" fill="#166534" opacity=".32">xjjyy8Q0</text>
-  </pattern>
-  <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#166534"/><stop offset="1" stop-color="#0550ae"/></linearGradient>
-  <clipPath id="portraitClip"><rect x="52" y="196" width="270" height="250" rx="7"/></clipPath>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".56" stop-color="#f2fbfa"/><stop offset="1" stop-color="#e9f2ff"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#087f5b"/><stop offset=".52" stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#4de2c5" stop-opacity=".37"/><stop offset="1" stop-color="#4de2c5" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#416475" stroke-opacity=".10"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+  <clipPath id="clip"><rect width="1200" height="390" rx="20"/></clipPath>
 </defs>
-<rect width="1000" height="1780" rx="8" fill="#ffffff"/>
-<rect width="1000" height="1780" fill="url(#grid)" opacity=".78"/>
-<rect x="18" y="18" width="964" height="1744" rx="8" stroke="#d0d7de" fill="none"/>
-<g font-family="JetBrains Mono,Consolas,monospace">
-  <rect x="38" y="34" width="924" height="42" rx="5" fill="#f6f8fa" stroke="#d0d7de"/>
-  <circle cx="57" cy="55" r="4" fill="#9a3412"/><circle cx="72" cy="55" r="4" fill="#166534"/><circle cx="87" cy="55" r="4" fill="#0550ae"/>
-  <text x="108" y="59" font-size="12" letter-spacing="1.4" fill="#59636e">GITASCII / @OSSAMAHENDI21</text>
-  <text x="941" y="59" text-anchor="end" font-size="10" fill="#166534">PROFILE.README</text>
-  <text x="51" y="112" font-size="11" letter-spacing="3" fill="#166534">@Ossamahendi21</text>
-  <path d="M51 130H949" stroke="url(#accentLine)" stroke-width="3"/>
-  <rect x="42" y="150" width="290" height="316" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="58" y="174" font-size="10" letter-spacing="1.2" fill="#59636e">[ ASCII PORTRAIT ]</text>
-  <rect x="52" y="191" width="270" height="255" rx="5" fill="#eef2f6" stroke="#d0d7de"/>
-  <g clip-path="url(#portraitClip)">
-    <rect x="52" y="196" width="270" height="250" fill="url(#ascii)"/>
-    <path d="M92 430C95 384 116 364 143 354L143 337C122 322 115 296 117 269C120 228 145 212 182 212C219 212 245 235 246 270C247 296 238 322 218 337L218 354C247 364 269 388 272 430Z" fill="#166534" opacity=".82"/>
-    <path d="M109 270C105 230 125 206 157 201C191 195 224 214 235 243L241 276L222 249L208 240C186 257 153 259 127 252L117 280Z" fill="#1f2328" opacity=".88"/>
-    <path d="M140 290Q153 280 167 290M193 290Q207 280 220 290" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
-    <path d="M166 308Q180 315 194 308" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
-    <path d="M157 337Q180 350 203 337" stroke="#0550ae" stroke-width="3" stroke-linecap="round"/>
-    <rect x="52" y="196" width="270" height="250" fill="url(#ascii)" opacity=".7"/>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="390" fill="url(#bg)"/><rect width="1200" height="390" fill="url(#grid)"/>
+  <circle cx="990" cy="160" r="210" fill="url(#glow)" filter="url(#blur)"><animate attributeName="opacity" values=".45;1;.45" dur="5s" repeatCount="indefinite"/></circle>
+  <g opacity=".75" fill="none" stroke="url(#neon)">
+    <ellipse cx="990" cy="170" rx="150" ry="64" stroke-width="1.4" transform="rotate(-28 990 170)"><animateTransform attributeName="transform" type="rotate" from="-28 990 170" to="332 990 170" dur="32s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="990" cy="170" rx="115" ry="85" stroke-width="1.2" transform="rotate(42 990 170)"><animateTransform attributeName="transform" type="rotate" from="42 990 170" to="-318 990 170" dur="26s" repeatCount="indefinite"/></ellipse>
+    <circle cx="990" cy="170" r="68" stroke-width="1" stroke-dasharray="3 9"><animate attributeName="stroke-dashoffset" values="0;120" dur="12s" repeatCount="indefinite"/></circle>
   </g>
-  <text x="58" y="457" font-size="8.5" fill="#166534">BUILD / LEARN / CREATE</text>
-
-  <rect x="350" y="150" width="608" height="316" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <rect x="350" y="150" width="608" height="38" rx="7" fill="#eef2f6"/><path d="M350 188H958" stroke="#d0d7de"/>
-  <text x="367" y="174" font-size="11" fill="#59636e">terminal://profile/summary</text><text x="940" y="174" text-anchor="end" font-size="10" fill="#1a7f37">● READY</text>
-  <text x="372" y="222" font-size="12" fill="#9a3412">Identity</text><text x="485" y="222" font-size="12" fill="#1f2328">Ossamahendi21@github</text>
-  <text x="372" y="253" font-size="12" fill="#9a3412">Uptime</text><text x="485" y="253" font-size="12" fill="#1f2328">5 years, 10 months, 27 days</text>
-  <text x="372" y="284" font-size="12" fill="#9a3412">Location</text><text x="485" y="284" font-size="12" fill="#1f2328">Morocco</text>
-  <text x="372" y="315" font-size="12" fill="#9a3412">Languages</text><text x="485" y="315" font-size="12" fill="#1f2328">JavaScript, TypeScript, Jupyter Notebook</text>
-  <path d="M372 333H936" stroke="#d0d7de"/>
-  <text x="372" y="357" font-size="12" fill="#0550ae">— Contact</text>
-  <text x="372" y="385" font-size="12" fill="#9a3412">GitHub</text><text x="485" y="385" font-size="12" fill="#0550ae">github.com/Ossamahendi21</text>
-  <text x="372" y="424" font-size="11" fill="#166534">$ echo "Software Engineer"</text>
-  <text x="372" y="446" font-size="10" fill="#59636e">END OF TERMINAL OUTPUT_</text>
-
-  <text x="48" y="508" font-size="12" letter-spacing="2" fill="#166534">// GITHUB STATS</text>
-  <rect x="42" y="526" width="916" height="104" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <g font-family="Inter,Arial,sans-serif">
-    <text x="73" y="557" font-size="11" fill="#59636e">PUBLIC REPOSITORIES</text><text x="73" y="600" font-size="30" font-weight="750" fill="#0550ae">15</text>
-    <path d="M263 544V612" stroke="#d0d7de"/>
-    <text x="293" y="557" font-size="11" fill="#59636e">STARS</text><text x="293" y="600" font-size="30" font-weight="750" fill="#166534">1</text>
-    <path d="M475 544V612" stroke="#d0d7de"/>
-    <text x="506" y="557" font-size="11" fill="#59636e">COMMITS</text><text x="506" y="600" font-size="30" font-weight="750" fill="#9a3412">362</text>
-    <path d="M690 544V612" stroke="#d0d7de"/>
-    <text x="719" y="557" font-size="11" fill="#59636e">FOLLOWERS</text><text x="719" y="600" font-size="30" font-weight="750" fill="#1a7f37">57</text>
+  <circle cx="1093" cy="114" r="6" fill="#087f5b"><animate attributeName="r" values="3;7;3" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="904" cy="240" r="4" fill="#0969da"><animate attributeName="cy" values="240;221;240" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="1019" cy="97" r="3" fill="#8250df"><animate attributeName="opacity" values=".2;1;.2" dur="3.4s" repeatCount="indefinite"/></circle>
+  <rect x="36" y="32" width="1128" height="326" rx="14" stroke="#587386" stroke-opacity=".27" fill="none"/>
+  <rect x="58" y="54" width="34" height="4" rx="2" fill="url(#neon)"/>
+  <text x="58" y="83" font-family="monospace" font-size="12" letter-spacing="3" fill="#536d7b">GITHUB PROFILE / 001</text>
+  <text x="55" y="153" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="-2" fill="#172b3a">OUSSAMA HENDI</text>
+  <text x="60" y="192" font-family="monospace" font-size="17" letter-spacing="1.5" fill="#087f5b">SOFTWARE ENGINEER</text>
+  <text x="60" y="232" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#405567">Exploring ideas. Building with code. Learning every day.</text>
+  <g font-family="monospace" font-size="13" fill="#536d7b">
+    <text x="60" y="286">$ whoami</text><text x="158" y="286" fill="#087f5b">@Ossamahendi21</text>
+    <rect x="292" y="272" width="8" height="18" fill="#087f5b"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
   </g>
-
-  <text x="48" y="672" font-size="12" letter-spacing="2" fill="#166534">// TOP LANGUAGES</text>
-  <rect x="42" y="690" width="916" height="152" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <g font-family="Inter,Arial,sans-serif" font-size="12" fill="#1f2328">
-    <text x="60" y="720">Shell</text><rect x="190" y="709" width="580" height="12" rx="6" fill="#eef2f6"/><rect x="190" y="709" width="151" height="12" rx="6" fill="#166534"/><text x="925" y="720" text-anchor="end" fill="#59636e">26%</text>
-    <text x="60" y="746">TypeScript</text><rect x="190" y="735" width="580" height="12" rx="6" fill="#eef2f6"/><rect x="190" y="735" width="133" height="12" rx="6" fill="#0550ae"/><text x="925" y="746" text-anchor="end" fill="#59636e">23%</text>
-    <text x="60" y="772">JavaScript</text><rect x="190" y="761" width="580" height="12" rx="6" fill="#eef2f6"/><rect x="190" y="761" width="110" height="12" rx="6" fill="#9a3412"/><text x="925" y="772" text-anchor="end" fill="#59636e">19%</text>
-    <text x="60" y="798">C</text><rect x="190" y="787" width="580" height="12" rx="6" fill="#eef2f6"/><rect x="190" y="787" width="110" height="12" rx="6" fill="#1a7f37"/><text x="925" y="798" text-anchor="end" fill="#59636e">19%</text>
-    <text x="60" y="824">CSS</text><rect x="190" y="813" width="580" height="12" rx="6" fill="#eef2f6"/><rect x="190" y="813" width="75" height="12" rx="6" fill="#166534"/><text x="925" y="824" text-anchor="end" fill="#59636e">13%</text>
-  </g>
-
-  <text x="48" y="885" font-size="12" letter-spacing="2" fill="#166534">// BIOGRAPHY</text>
-  <rect x="42" y="903" width="916" height="94" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="62" y="940" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="700" fill="#1f2328">Software Engineer</text>
-  <text x="62" y="972" font-family="Inter,Arial,sans-serif" font-size="14" fill="#59636e">📍 Morocco</text>
-  <text x="730" y="955" font-family="JetBrains Mono,monospace" font-size="11" fill="#166534">[ BIOGRAPHY ]</text>
-
-  <text x="48" y="1040" font-size="12" letter-spacing="2" fill="#166534">// TECHNOLOGIES &amp; SKILLS</text>
-  <rect x="42" y="1058" width="916" height="188" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <g><rect x="55" y="1104" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="66" cy="1118.5" r="3" fill="#166534"/><text x="76" y="1123" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">JavaScript</text></g>
-<g><rect x="183" y="1104" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="194" cy="1118.5" r="3" fill="#0550ae"/><text x="204" y="1123" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">TypeScript</text></g>
-<g><rect x="311" y="1104" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="322" cy="1118.5" r="3" fill="#9a3412"/><text x="332" y="1123" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">HTML</text></g>
-<g><rect x="439" y="1104" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="450" cy="1118.5" r="3" fill="#1a7f37"/><text x="460" y="1123" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">CSS</text></g>
-<g><rect x="567" y="1104" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="578" cy="1118.5" r="3" fill="#166534"/><text x="588" y="1123" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Python</text></g>
-<g><rect x="695" y="1104" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="706" cy="1118.5" r="3" fill="#0550ae"/><text x="716" y="1123" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Dart</text></g>
-<g><rect x="823" y="1104" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="834" cy="1118.5" r="3" fill="#9a3412"/><text x="844" y="1123" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">React</text></g>
-<g><rect x="55" y="1147" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="66" cy="1161.5" r="3" fill="#1a7f37"/><text x="76" y="1166" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Vue</text></g>
-<g><rect x="183" y="1147" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="194" cy="1161.5" r="3" fill="#166534"/><text x="204" y="1166" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Next.js</text></g>
-<g><rect x="311" y="1147" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="322" cy="1161.5" r="3" fill="#0550ae"/><text x="332" y="1166" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Bootstrap</text></g>
-<g><rect x="439" y="1147" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="450" cy="1161.5" r="3" fill="#9a3412"/><text x="460" y="1166" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Tailwind</text></g>
-<g><rect x="567" y="1147" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="578" cy="1161.5" r="3" fill="#1a7f37"/><text x="588" y="1166" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Flutter</text></g>
-<g><rect x="695" y="1147" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="706" cy="1161.5" r="3" fill="#166534"/><text x="716" y="1166" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">React Native</text></g>
-<g><rect x="823" y="1147" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="834" cy="1161.5" r="3" fill="#0550ae"/><text x="844" y="1166" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Electron</text></g>
-<g><rect x="55" y="1190" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="66" cy="1204.5" r="3" fill="#9a3412"/><text x="76" y="1209" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Supabase</text></g>
-<g><rect x="183" y="1190" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="194" cy="1204.5" r="3" fill="#1a7f37"/><text x="204" y="1209" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">VS Code</text></g>
-<g><rect x="311" y="1190" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="322" cy="1204.5" r="3" fill="#166534"/><text x="332" y="1209" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">GitHub</text></g>
-<g><rect x="439" y="1190" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="450" cy="1204.5" r="3" fill="#0550ae"/><text x="460" y="1209" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Swift</text></g>
-<g><rect x="567" y="1190" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="578" cy="1204.5" r="3" fill="#9a3412"/><text x="588" y="1209" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Kotlin</text></g>
-<g><rect x="695" y="1190" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="706" cy="1204.5" r="3" fill="#1a7f37"/><text x="716" y="1209" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Astro</text></g>
-<g><rect x="823" y="1190" width="116" height="29" rx="5" fill="#eef2f6" stroke="#d0d7de"/><circle cx="834" cy="1204.5" r="3" fill="#166534"/><text x="844" y="1209" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#1f2328">Node.js</text></g>
-
-  <text x="48" y="1291" font-size="12" letter-spacing="2" fill="#166534">// FEATURED REPOSITORIES</text>
-  <rect x="42" y="1309" width="296" height="103" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="58" y="1336" font-size="12" fill="#0550ae">fooocus_colab</text><text x="58" y="1360" font-size="10" fill="#59636e">★ 0  ·  Jupyter Notebook</text><text x="58" y="1387" font-size="10" fill="#59636e">No description.</text>
-  <a href="https://github.com/Ossamahendi21/fooocus_colab"><rect x="58" y="1392" width="100" height="15" rx="3" fill="#eef2f6"/><text x="66" y="1403" font-size="8" fill="#0550ae">OPEN REPOSITORY ↗</text></a>
-  <rect x="352" y="1309" width="296" height="103" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="368" y="1336" font-size="12" fill="#0550ae">Ossamahendi21</text><text x="368" y="1360" font-size="10" fill="#59636e">★ 0</text><text x="368" y="1387" font-size="10" fill="#59636e">No description.</text>
-  <a href="https://github.com/Ossamahendi21/Ossamahendi21"><rect x="368" y="1392" width="100" height="15" rx="3" fill="#eef2f6"/><text x="376" y="1403" font-size="8" fill="#0550ae">OPEN REPOSITORY ↗</text></a>
-  <rect x="662" y="1309" width="296" height="103" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="678" y="1336" font-size="12" fill="#0550ae">Ossamahendi212</text><text x="678" y="1360" font-size="10" fill="#59636e">★ 0</text><text x="678" y="1387" font-size="10" fill="#59636e">No description.</text>
-  <a href="https://github.com/Ossamahendi21/Ossamahendi212"><rect x="678" y="1392" width="100" height="15" rx="3" fill="#eef2f6"/><text x="686" y="1403" font-size="8" fill="#0550ae">OPEN REPOSITORY ↗</text></a>
-
-  <text x="48" y="1461" font-size="12" letter-spacing="2" fill="#166534">// SOCIAL MEDIA</text>
-  <rect x="42" y="1479" width="916" height="136" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
-  <a href="https://github.com/Ossamahendi21" target="_blank"><rect x="54" y="1432" width="290" height="36" rx="5" fill="#eef2f6" stroke="#d0d7de"/><text x="66" y="1454" font-family="JetBrains Mono,monospace" font-size="10" fill="#166534">GitHub</text><text x="170" y="1454" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#0550ae">github.com/Ossamahendi21</text></a>
-<a href="https://www.instagram.com/oussama.hendi/" target="_blank"><rect x="361" y="1432" width="290" height="36" rx="5" fill="#eef2f6" stroke="#d0d7de"/><text x="373" y="1454" font-family="JetBrains Mono,monospace" font-size="10" fill="#166534">Instagram</text><text x="477" y="1454" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#0550ae">@oussama.hendi</text></a>
-<a href="https://x.com/Oussama_hendi" target="_blank"><rect x="668" y="1432" width="290" height="36" rx="5" fill="#eef2f6" stroke="#d0d7de"/><text x="680" y="1454" font-family="JetBrains Mono,monospace" font-size="10" fill="#166534">X / Twitter</text><text x="784" y="1454" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#0550ae">@Oussama_hendi</text></a>
-<a href="https://discord.com/users/545738140162195471/" target="_blank"><rect x="54" y="1481" width="290" height="36" rx="5" fill="#eef2f6" stroke="#d0d7de"/><text x="66" y="1503" font-family="JetBrains Mono,monospace" font-size="10" fill="#166534">Discord</text><text x="170" y="1503" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#0550ae">Ossamahendi21</text></a>
-<a href="https://www.facebook.com/profile.php?id=100006842566642" target="_blank"><rect x="361" y="1481" width="290" height="36" rx="5" fill="#eef2f6" stroke="#d0d7de"/><text x="373" y="1503" font-family="JetBrains Mono,monospace" font-size="10" fill="#166534">Facebook</text><text x="477" y="1503" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#0550ae">Profile</text></a>
-<a href="https://open.spotify.com/user/5ok5f7useewlc0efun3ajwnim/" target="_blank"><rect x="668" y="1481" width="290" height="36" rx="5" fill="#eef2f6" stroke="#d0d7de"/><text x="680" y="1503" font-family="JetBrains Mono,monospace" font-size="10" fill="#166534">Spotify</text><text x="784" y="1503" font-family="Inter,Arial,sans-serif" font-size="10.5" fill="#0550ae">Profile</text></a>
-  <path d="M42 1640H958" stroke="#d0d7de"/>
-  <text x="48" y="1669" font-size="10" letter-spacing="1.1" fill="#59636e">PROFILE DATA / GITASCII EXPORT</text>
-  <text x="48" y="1704" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">Software Engineer</text>
-  <text x="48" y="1734" font-size="10" letter-spacing="1.2" fill="#166534">END OF TRANSMISSION // THANK YOU FOR VISITING</text>
-  <text x="949" y="1734" font-size="10" text-anchor="end" fill="#59636e">001 / GH</text>
+  <path d="M60 318H520" stroke="url(#neon)" stroke-width="2" stroke-dasharray="460" stroke-dashoffset="460"><animate attributeName="stroke-dashoffset" values="460;0;0" keyTimes="0;.65;1" dur="4s" repeatCount="indefinite"/></path>
+  <text x="1138" y="329" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="2" fill="#536d7b">BUILD / BREAK / LEARN / REPEAT</text>
 </g>
 </svg>
