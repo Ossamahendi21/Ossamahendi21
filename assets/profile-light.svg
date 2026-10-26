@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
 <title id="title">Oussama Hendi — animated developer profile</title>
-<desc id="desc">Custom animated bright terminal-inspired banner for the public GitHub profile.</desc>
+<desc id="desc">Custom animated terminal-inspired banner for the public GitHub profile.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".56" stop-color="#f2fbfa"/><stop offset="1" stop-color="#e9f2ff"/></linearGradient>
-  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#087f5b"/><stop offset=".52" stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#4de2c5" stop-opacity=".37"/><stop offset="1" stop-color="#4de2c5" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#416475" stroke-opacity=".10"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050914"/><stop offset=".55" stop-color="#0b1828"/><stop offset="1" stop-color="#0d302e"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42f5c5"/><stop offset=".52" stop-color="#63b3ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#42f5c5" stop-opacity=".28"/><stop offset="1" stop-color="#42f5c5" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#8cb4ca" stroke-opacity=".08"/></pattern>
   <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
   <clipPath id="clip"><rect width="1200" height="390" rx="20"/></clipPath>
 </defs>
 <g clip-path="url(#clip)">
   <rect width="1200" height="390" fill="url(#bg)"/><rect width="1200" height="390" fill="url(#grid)"/>
   <circle cx="990" cy="160" r="210" fill="url(#glow)" filter="url(#blur)"><animate attributeName="opacity" values=".45;1;.45" dur="5s" repeatCount="indefinite"/></circle>
-  <g opacity=".75" fill="none" stroke="url(#neon)">
+  <g opacity=".65" fill="none" stroke="url(#neon)">
     <ellipse cx="990" cy="170" rx="150" ry="64" stroke-width="1.4" transform="rotate(-28 990 170)"><animateTransform attributeName="transform" type="rotate" from="-28 990 170" to="332 990 170" dur="32s" repeatCount="indefinite"/></ellipse>
     <ellipse cx="990" cy="170" rx="115" ry="85" stroke-width="1.2" transform="rotate(42 990 170)"><animateTransform attributeName="transform" type="rotate" from="42 990 170" to="-318 990 170" dur="26s" repeatCount="indefinite"/></ellipse>
     <circle cx="990" cy="170" r="68" stroke-width="1" stroke-dasharray="3 9"><animate attributeName="stroke-dashoffset" values="0;120" dur="12s" repeatCount="indefinite"/></circle>
   </g>
-  <circle cx="1093" cy="114" r="6" fill="#087f5b"><animate attributeName="r" values="3;7;3" dur="2.8s" repeatCount="indefinite"/></circle>
-  <circle cx="904" cy="240" r="4" fill="#0969da"><animate attributeName="cy" values="240;221;240" dur="4s" repeatCount="indefinite"/></circle>
-  <circle cx="1019" cy="97" r="3" fill="#8250df"><animate attributeName="opacity" values=".2;1;.2" dur="3.4s" repeatCount="indefinite"/></circle>
-  <rect x="36" y="32" width="1128" height="326" rx="14" stroke="#587386" stroke-opacity=".27" fill="none"/>
+  <circle cx="1093" cy="114" r="6" fill="#42f5c5"><animate attributeName="r" values="3;7;3" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="904" cy="240" r="4" fill="#63b3ff"><animate attributeName="cy" values="240;221;240" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="1019" cy="97" r="3" fill="#a78bfa"><animate attributeName="opacity" values=".2;1;.2" dur="3.4s" repeatCount="indefinite"/></circle>
+  <rect x="36" y="32" width="1128" height="326" rx="14" stroke="#8cb4ca" stroke-opacity=".24" fill="none"/>
   <rect x="58" y="54" width="34" height="4" rx="2" fill="url(#neon)"/>
-  <text x="58" y="83" font-family="monospace" font-size="12" letter-spacing="3" fill="#536d7b">GITHUB PROFILE / 001</text>
-  <text x="55" y="153" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="-2" fill="#172b3a">OUSSAMA HENDI</text>
-  <text x="60" y="192" font-family="monospace" font-size="17" letter-spacing="1.5" fill="#087f5b">SOFTWARE ENGINEER</text>
-  <text x="60" y="232" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#405567">Exploring ideas. Building with code. Learning every day.</text>
-  <g font-family="monospace" font-size="13" fill="#536d7b">
-    <text x="60" y="286">$ whoami</text><text x="158" y="286" fill="#087f5b">@Ossamahendi21</text>
-    <rect x="292" y="272" width="8" height="18" fill="#087f5b"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  <text x="58" y="83" font-family="monospace" font-size="12" letter-spacing="3" fill="#8ab6c8">GITHUB PROFILE / 001</text>
+  <text x="55" y="153" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="-2" fill="#f2f8ff">OUSSAMA HENDI</text>
+  <text x="60" y="192" font-family="monospace" font-size="17" letter-spacing="1.5" fill="#42f5c5">SOFTWARE ENGINEER</text>
+  <text x="60" y="232" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#b8c9d9">Exploring ideas. Building with code. Learning every day.</text>
+  <g font-family="monospace" font-size="13" fill="#8ab6c8">
+    <text x="60" y="286">$ whoami</text><text x="158" y="286" fill="#42f5c5">@Ossamahendi21</text>
+    <rect x="292" y="272" width="8" height="18" fill="#42f5c5"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
   </g>
   <path d="M60 318H520" stroke="url(#neon)" stroke-width="2" stroke-dasharray="460" stroke-dashoffset="460"><animate attributeName="stroke-dashoffset" values="460;0;0" keyTimes="0;.65;1" dur="4s" repeatCount="indefinite"/></path>
-  <text x="1138" y="329" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="2" fill="#536d7b">BUILD / BREAK / LEARN / REPEAT</text>
+  <text x="1138" y="329" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="2" fill="#6f8e9e">BUILD / BREAK / LEARN / REPEAT</text>
 </g>
 </svg>
