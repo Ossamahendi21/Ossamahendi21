@@ -8,7 +8,7 @@
 
 <picture>
   <!-- The banner variants are intentionally crossed to preserve the requested display order. -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ossamahendi21/Ossamahendi21/master/assets/profile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ossamahendi21/Ossamahendi21/master/assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ossamahendi21/Ossamahendi21/master/assets/profile-dark.svg">
   <img src="https://raw.githubusercontent.com/Ossamahendi21/Ossamahendi21/master/assets/profile-dark.svg" width="100%" alt="Animated profile banner for Oussama Hendi">
 </picture>
